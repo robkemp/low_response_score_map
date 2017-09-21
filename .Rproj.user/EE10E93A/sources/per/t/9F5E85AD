@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1505932452834.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "406368644",
+    "id" : "9F5E85AD",
+    "lastKnownWriteTime" : 1506012352,
+    "last_content_update" : 1506012352818,
+    "path" : "C:/Temp/low_response_score_map/basic_map.r",
+    "project_path" : "basic_map.r",
+    "properties" : {
+        "cursorPosition" : "37,15",
+        "scrollLine" : "26"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
